@@ -14,5 +14,3 @@ mkdocs serve
 2. 部署
 mkdocs gh-deploy
 ```
-
-## 部署说明
