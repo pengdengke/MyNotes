@@ -44,3 +44,6 @@ nav:
     - jQuery:
       - 清空表单: jQuery/reset_form.md
       - ajax请求: jQuery/ajax.md
+    - Vue:
+      - 解决办法:
+        - Vue页面加载前显示{{}}的解决办法: Vue/Solution/Vue页面加载前显示{{}}的解决办法.md
