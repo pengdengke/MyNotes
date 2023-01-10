@@ -41,6 +41,8 @@ nav:
   - 介绍:
     - 1. 目的: index.md
   - 编程:
+    - Golang:
+      - 计算时间差: Golang/计算时间差.md
     - jQuery:
       - 清空表单: jQuery/reset_form.md
       - ajax请求: jQuery/ajax.md
