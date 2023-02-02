@@ -49,3 +49,6 @@ nav:
     - Vue:
       - 解决办法:
         - Vue页面加载前显示{{}}的解决办法: Vue/Solution/Vue页面加载前显示{{}}的解决办法.md
+    - MongoDB:
+      - 聚合查询:
+        - 管道分组排序分页: MongoDB/Aggregate/管道分组排序分页.md
