@@ -1,0 +1,10 @@
+请不要公开讨论、宣传、分享本站网址，如微博、博客、贴吧、论坛、短视频、问答……<br/>
+请将以下网址复制或截图保存到本地，以防丢失<br/>
+国际线路：<br/>
+https://www.btnull.org<br/>
+https://www.btnull.to<br/>
+中国大陆线路：<br/>
+https://www.btnull.nu<br/>
+https://www.btnull.in<br/>
+其他网址：<br/>
+https://www.btnull.com<br/>

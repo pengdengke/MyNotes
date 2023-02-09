@@ -52,3 +52,6 @@ nav:
     - MongoDB:
       - 聚合查询:
         - 管道分组排序分页: MongoDB/Aggregate/管道分组排序分页.md
+  - 娱乐:
+    - 影视:
+      - BTNULL 发布页: 娱乐/影视/BTNULL发布页.md
